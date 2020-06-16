@@ -1,8 +1,10 @@
 Welcome to Wayne Cloud 
 <br />
-<pre>
 
+<pre>
 <?php
+
 print 'ifconfig';
+
 ?>
 </pre>
