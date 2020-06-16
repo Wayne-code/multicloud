@@ -4,7 +4,7 @@ Welcome to Wayne Cloud
 <pre>
 <?php
 
-print "niggas in paris";
+print "niggas in parris";
 
 ?>
 </pre>
