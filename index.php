@@ -4,7 +4,7 @@ Welcome to Wayne Cloud
 <pre>
 <?php
 
-print "ifconfig";
+print "niggas in paris";
 
 ?>
 </pre>
