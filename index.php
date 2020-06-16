@@ -1,10 +1,7 @@
 Welcome to Wayne Cloud 
 <br />
 
-<pre>
 <?php
-
-print "niggas in parris";
-
+$result=shell_exec("ls -al");
+echo "<pre>".$result."</pre>";
 ?>
-</pre>
